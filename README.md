@@ -1,5 +1,5 @@
 # taxi_booking Flutter app
-taxi booking app is a user-friendly mobile application built using Flutter. where you can negotiate prices adn aslo choose your driver
+taxi booking app is a user-friendly mobile application built using Flutter. where you can negotiate prices and also choose your driver
 
 ## Features 
 User-friendly Interface: The app is designed to be intuitive and easy to use for all users.
