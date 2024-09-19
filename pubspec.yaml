@@ -1,0 +1,52 @@
+name: taxi_booking
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/_1f.png
+    - assets/images/_1fd.png
+    - assets/images/_1fde.png
+    - assets/images/_1fdec.png
+    - assets/images/Ellipse 8.png
+    - assets/images/Vector.png
+    - assets/images/Group 3.png
+    - assets/images/google.png
+    - assets/images/a.png
+    - assets/images/bike.png
+    - assets/images/cab.png
+    - assets/images/Clip.png
+    - assets/images/Clippath.png
+    - assets/images/f.png
+    - assets/images/i.png
+    - assets/images/keke.png
+    - assets/images/van.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+    - family: Kenia
+      fonts:
+        - asset: assets/fonts/Kenia-Regular.ttf
